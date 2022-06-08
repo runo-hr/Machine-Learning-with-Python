@@ -6,5 +6,7 @@
 * [Polynomial regression](/ML0101EN-Reg-Polynomial-Regression-Co2.ipynb)  
 * [Non linear regression](/ML0101EN-Reg-NoneLinearRegression.ipynb)
 * [KNN Customer Category](/ML0101EN-Clas-K-Nearest-neighbors-CustCat.ipynb)  
+* [Decision Tree Classifier](/ML0101EN-Clas-Decision-Trees-drug.ipynb)  
+* [Logistic Regression](/ML0101EN-Clas-Logistic-Reg-churn.ipynb)  
 
 
