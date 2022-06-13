@@ -10,5 +10,6 @@
 * [Decision Tree Classifier](/ML0101EN-Clas-Decision-Trees-drug.ipynb)  
 * [Logistic Regression](/ML0101EN-Clas-Logistic-Reg-churn.ipynb)  
 * [Support Vector Machines](/ML0101EN-Clas-SVM-cancer.ipynb)  
-
+## Clustering 
+* [K-Means](/ML0101EN-Clus-K-Means-Customer-Seg.ipynb)
 
