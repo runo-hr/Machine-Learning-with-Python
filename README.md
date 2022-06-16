@@ -11,5 +11,7 @@
 * [Logistic Regression](/ML0101EN-Clas-Logistic-Reg-churn.ipynb)  
 * [Support Vector Machines](/ML0101EN-Clas-SVM-cancer.ipynb)  
 ## Clustering 
-* [K-Means](/ML0101EN-Clus-K-Means-Customer-Seg.ipynb)
+* [K-Means Clustering](/ML0101EN-Clus-K-Means-Customer-Seg.ipynb)
+* [Hierarchical Clustering](/ML0101EN-Clus-Hierarchical-Cars.ipynb)
+* [Density-Based Spatial Clustering of Applications with Noise](/ML0101EN-Clus-DBSCN-weather.ipynb)
 
