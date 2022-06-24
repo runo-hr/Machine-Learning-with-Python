@@ -14,4 +14,8 @@
 * [K-Means Clustering](/ML0101EN-Clus-K-Means-Customer-Seg.ipynb)
 * [Hierarchical Clustering](/ML0101EN-Clus-Hierarchical-Cars.ipynb)
 * [Density-Based Spatial Clustering of Applications with Noise](/ML0101EN-Clus-DBSCN-weather.ipynb)
+## Recommender Systems
+* [Content Based Movie recommendation](/ML0101EN-RecSys-Content-Based-movies.ipynb)  
+* [Collaborative Filtering](/ML0101EN-RecSys-Collaborative-Filtering-movies.ipynb)
+
 
