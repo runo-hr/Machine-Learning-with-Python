@@ -17,5 +17,6 @@
 ## Recommender Systems
 * [Content Based Movie recommendation](/ML0101EN-RecSys-Content-Based-movies.ipynb)  
 * [Collaborative Filtering](/ML0101EN-RecSys-Collaborative-Filtering-movies.ipynb)
-
+## Project
+* [Loan Repayment](/ML0101EN-Proj-Loan-py-v1.ipynb)
 
